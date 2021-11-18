@@ -1,9 +1,22 @@
 ---
 title: "About"
-date: 2019-04-19T21:37:58+05:30
 type: "page"
 ---
+####
+> #### **K-5** adalah singkatan dari "**Kelompok 5**" yang didasari oleh tugas mata kuliah Inovasi SI dan New Technology, dan diinisiasikan sebagai **Website Blog** yang membahas seputaran technology dan inovasi yang ada didunia.
 
-This is some static page where you can write about yourself.
+#### Dibentuk Oleh:
 
-https://www.instagram.com/hafidzurr_/
+* [Fikri Maulvi Hakim](https://www.instagram.com/mouuvee/)
+
+* [Gerson Octavian Latumeten](https://www.instagram.com/latumeten24/)
+
+* [Hafidzurrohman Saifullah](https://www.instagram.com/hafidzurr_/)
+
+* [Lukman Nulhakim](https://www.instagram.com/lukman._._/) 
+
+
+#### Catatan:
+> ###### Tags "Jurnal" : Didalam Tags ini Disediakan Kumpulan Ringkasan Jurnal  
+
+> ###### Tags "Inovasi" : Didalam Tags ini Disediakan Kumpulan Contoh Inovasi  

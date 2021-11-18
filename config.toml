@@ -1,10 +1,10 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "kelompok lima"
+title = "K-5"
 theme = "ink"
 paginate = 5
 
-copyright = "© Copyright notice"
+
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
+	subtitle = "[Our life is our own, and Our future is up to us](https://195.2.81.61/movie/enola-holmes-2020/)"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://image.flaticon.com/icons/png/512/1185/1185005.png"
@@ -51,14 +51,15 @@ url = "/tags"
 weight = 4
 
 [[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/k.inovasi05/"
 
 [[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/K533486495"
+
 
 [taxonomies]
    tag = "tags"
