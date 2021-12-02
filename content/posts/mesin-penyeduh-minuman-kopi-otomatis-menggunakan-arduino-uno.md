@@ -1,7 +1,10 @@
 ---
 title: MESIN PENYEDUH MINUMAN KOPI OTOMATIS MENGGUNAKAN ARDUINO UNO
 date: 2021-11-27T22:35:40.529Z
-description: "   "
+description: Arduino Uno adalah papan mikrokontroler open-source berbasis
+  mikrokontroler Microchip ATmega328P dan dikembangkan oleh Arduino.cc. Papan
+  ini dilengkapi dengan set pin input / output digital dan analog yang dapat
+  dihubungkan ke berbagai papan ekspansi dan sirkuit lainnya.
 tags:
   - Jurnal
 ---
