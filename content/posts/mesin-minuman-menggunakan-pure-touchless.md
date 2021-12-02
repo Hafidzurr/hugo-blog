@@ -1,6 +1,6 @@
 ---
 title: MESIN MINUMAN MENGGUNAKAN PURE TOUCHLESS
-date: 2021-11-28T22:53:53.049Z
+date: 2021-11-29T22:53:53.049Z
 description: Bagaimana Pure Touchless Sebagai Inovasi dibidang Mesin Minuman.
 tags:
   - Jurnal
