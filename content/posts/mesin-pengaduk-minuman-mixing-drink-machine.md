@@ -1,7 +1,10 @@
 ---
 title: MESIN PENGADUK MINUMAN (MIXING DRINK MACHINE)
 date: 2021-11-28T22:44:05.302Z
-description: "  "
+description: Mixing drink machine adalah salah satu pemanfaatan dari sistem
+  komputerisasi otomatis sebagai contoh berkembangnya Ilmu Pengetahuan dan
+  Teknologi (IPTEK) yang semakin meningkat dengan pesat seiring dengan
+  meningkatnya kebutuhan manusia yang semakin besar.
 tags:
   - Jurnal
 ---
