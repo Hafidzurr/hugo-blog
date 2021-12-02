@@ -1,6 +1,6 @@
 ---
 title: MESIN PENGADUK MINUMAN (MIXING DRINK MACHINE)
-date: 2021-11-27T22:44:05.302Z
+date: 2021-11-28T22:44:05.302Z
 description: Bagaimana Mixing Drink Machine Sebagai Inovasi dibidang Mesin Minuman.
 tags:
   - Jurnal
