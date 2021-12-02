@@ -1,7 +1,7 @@
 ---
 title: RANCANG BANGUN  MESIN PEMBUAT MINUMAN CEPAT  SAJI OTOMATIS
   BERBASIS  ARDUINO  DENGAN KONTROL ANDROID
-date: 2021-11-29T23:15:28.425Z
+date: 2021-11-30T23:15:28.425Z
 description: Menjelaskan Bagaimana Arduino Dengan Kontrol Android Sebagai
   Inovasi dibidang Mesin Minuman.
 tags:
