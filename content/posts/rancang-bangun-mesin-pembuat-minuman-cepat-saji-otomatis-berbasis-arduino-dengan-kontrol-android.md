@@ -2,7 +2,10 @@
 title: RANCANG BANGUN  MESIN PEMBUAT MINUMAN CEPAT  SAJI OTOMATIS
   BERBASIS  ARDUINO  DENGAN KONTROL ANDROID
 date: 2021-11-30T23:15:28.425Z
-description: "    "
+description: Arduino Uno adalah papan mikrokontroler open-source berbasis
+  mikrokontroler Microchip ATmega328P dan dikembangkan oleh Arduino.cc. Papan
+  ini dilengkapi dengan set pin input / output digital dan analog yang dapat
+  dihubungkan ke berbagai papan ekspansi dan sirkuit lainnya.
 tags:
   - Jurnal
 ---
