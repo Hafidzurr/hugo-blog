@@ -1,7 +1,9 @@
 ---
 title: MESIN MINUMAN MENGGUNAKAN PURE TOUCHLESS
 date: 2021-11-29T22:53:53.049Z
-description: "   "
+description: Katup dispenser swalayan tanpa sentuhan yang menggantikan katup
+  tombol atau tuas yang paling umum dengan teknologi yang digerakkan oleh
+  sensor.
 tags:
   - Jurnal
 ---
