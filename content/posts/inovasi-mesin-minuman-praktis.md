@@ -1,7 +1,11 @@
 ---
 title: INOVASI MESIN MINUMAN PRAKTIS
 date: 2021-12-02T23:23:59.728Z
-description: " "
+description: " Inovasi adalah proses dan hasil pengembangan
+  pemanfaatan/mobilisasi pengetahuan, keterampilan (termasuk keterampilan
+  teknologis) dan pengalaman untuk menciptakan atau memperbaiki produk (barang
+  dan/atau jasa), proses, dan/atau sistem yang baru, yang memberikan nilai yang
+  berarti atau secara signifikan (terutama ekonomi dan sosial)."
 tags:
   - Inovasi
 ---
