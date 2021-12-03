@@ -2,7 +2,10 @@
 title: DISPENSER OTOMATIS SENSOR ULTRASONIK DAN ARDUINO UNO (AUTOMATIC DISPENSER
   ULTRASONIC SENSOR AND ARDUINO UNO)
 date: 2021-11-25T00:34:08.889Z
-description: "   "
+description: Arduino Uno adalah papan mikrokontroler open-source berbasis
+  mikrokontroler Microchip ATmega328P dan dikembangkan oleh Arduino.cc. Papan
+  ini dilengkapi dengan set pin input / output digital dan analog yang dapat
+  dihubungkan ke berbagai papan ekspansi dan sirkuit lainnya.
 tags:
   - Jurnal
 ---
